@@ -341,5 +341,6 @@ module.exports = {
     deleteMultipleCachedImages,
     clearCache,
     seedCache,
-    getCacheInfo
+    getCacheInfo,
+    deleteFile
 };
